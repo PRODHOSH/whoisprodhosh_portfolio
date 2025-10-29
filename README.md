@@ -41,7 +41,7 @@ const portfolio = {
 
 ### 🎯 [**View Live Portfolio →**](https://prodhosh.github.io/portfolio/)
 
-<img src="readme-stuff/portfolio.png" alt="Portfolio Demo" width="600" />
+<img src="portfolio.gif" alt="Portfolio Demo" width="600" />
 
 </div>
 
@@ -295,3 +295,4 @@ This project is **MIT** licensed - feel free to use it for your own portfolio!
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
+
