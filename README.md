@@ -12,7 +12,7 @@
 
 ### 🌌 Live Demo
 
-[🚩 Experience the Animation!](https://prodhosh.github.io/portfolio)  
+[🚩 Experience the Animation!](https://prodhosh.github.io/whoisprodhosh_portfolio/)  
 
 ---
 
@@ -48,6 +48,7 @@ _Aspiring Data Scientist_ (VIT Chennai · IIT Madras)
     🚨  Powered by creative code, glowing neon, and personal ambition 🚨
   </sub>
 </div>
+
 
 
 
