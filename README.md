@@ -1,8 +1,8 @@
 # 🚀 PRODHOSH Terminal Portfolio
 
 <div align="center">
-  <img src="readme-stuff/photo_1.png" width="45%" style="margin-right: 10px;"/>
-  <img src="readme-stuff/photo_2.png" width="45%"/>
+  <img src="readme-stuff/photo_1.png" width="30%" style="margin-right: 10px;"/>
+  <img src="readme-stuff/photo_2.png" width="70%"/>
 </div>
 
 
@@ -48,6 +48,7 @@ _Aspiring Data Scientist_ (VIT Chennai · IIT Madras)
     🚨  Powered by creative code, glowing neon, and personal ambition 🚨
   </sub>
 </div>
+
 
 
 
