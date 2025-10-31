@@ -1,7 +1,7 @@
 # 🚀 PRODHOSH Terminal Portfolio
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74384354/201043747-e7ac2b2e-7490-43b6-9175-1bb3c1f6a127.gif" width="450"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Digital_rain_animation_medium_letters_shine.gif" width="450"/>
   <br>
   <img src="https://svgur.com/i/15Jg.svg" width="210"/>
   <br>
@@ -50,3 +50,4 @@ _Aspiring Data Scientist_ (VIT Chennai · IIT Madras)
     🚨  Powered by creative code, glowing neon, and personal ambition 🚨
   </sub>
 </div>
+
