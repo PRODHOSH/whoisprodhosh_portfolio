@@ -1,10 +1,10 @@
 # 🚀 PRODHOSH Terminal Portfolio
 
 <div align="center">
-  <img src="readme-stuff/photo_1.png" width="450"/>
-  <br>
-  <img src="readme-stuff/photo_2.png" width="430"/>
+  <img src="readme-stuff/photo_1.png" width="45%" style="margin-right: 10px;"/>
+  <img src="readme-stuff/photo_2.png" width="45%"/>
 </div>
+
 
 #### Terminal Portfolio · 3D Animated · Cyberpunk · VIT CS · IITM Data Science
 
@@ -48,6 +48,7 @@ _Aspiring Data Scientist_ (VIT Chennai · IIT Madras)
     🚨  Powered by creative code, glowing neon, and personal ambition 🚨
   </sub>
 </div>
+
 
 
 
