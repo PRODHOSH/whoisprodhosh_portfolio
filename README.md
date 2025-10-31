@@ -1,11 +1,11 @@
 # 🚀 PRODHOSH Terminal Portfolio
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Digital_rain_animation_medium_letters_shine.gif" width="450"/>
+  <img src="readme-stuff/photo_1" width="450"/>
   <br>
   <img src="https://svgur.com/i/15Jg.svg" width="210"/>
   <br>
-  <img src="https://raw.githubusercontent.com/Kushal997-das/Animated-GIF-SVG-or-APNG-Icons/main/AnimatedSVGicons/MatrixRain.svg" width="430"/>
+  <img src="readme-stuff/photo_2" width="430"/>
 </div>
 
 #### Terminal Portfolio · 3D Animated · Cyberpunk · VIT CS · IITM Data Science
@@ -50,4 +50,5 @@ _Aspiring Data Scientist_ (VIT Chennai · IIT Madras)
     🚨  Powered by creative code, glowing neon, and personal ambition 🚨
   </sub>
 </div>
+
 
