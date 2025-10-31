@@ -3,8 +3,6 @@
 <div align="center">
   <img src="readme-stuff/photo_1.png" width="450"/>
   <br>
-  <img src="https://svgur.com/i/15Jg.svg" width="210"/>
-  <br>
   <img src="readme-stuff/photo_2.png" width="430"/>
 </div>
 
@@ -50,6 +48,7 @@ _Aspiring Data Scientist_ (VIT Chennai · IIT Madras)
     🚨  Powered by creative code, glowing neon, and personal ambition 🚨
   </sub>
 </div>
+
 
 
 
